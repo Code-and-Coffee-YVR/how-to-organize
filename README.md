@@ -9,7 +9,7 @@ Feel free to fork this repo and adapt it to your own purposes! We also would lov
 ## Manifesto
 We have split the [C&C Manifesto](https://github.com/Code-and-Coffee-YVR/how-to-organize/blob/master/Manifesto.md) off into its own file.
 
-## How to find us?
+## How to find us
 - [Meetup](http://www.meetup.com/Code-Coffee-Vancouver/)
 - [Twitter (@codecoffeeyvr)](https://twitter.com/codecoffeeyvr)
 - [#code-and-coffee on Vancouver Developers Slack](https://yvrdev.slack.com/messages/code-and-coffee/)
