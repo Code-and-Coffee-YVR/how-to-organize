@@ -1,7 +1,5 @@
 # Code & Coffee
 ## How to Organize
-### What we do, and how we do it
-
 This repo exists to help ensure that Code & Coffee is run consistently each time, to help onboard new organizers, and to share information with other groups.
 
 Learning how to effectively run a Meetup has taken many months. It would be a shame if all of that learning were to vanish if the current organizers were to move or leave for some unknown reason.
