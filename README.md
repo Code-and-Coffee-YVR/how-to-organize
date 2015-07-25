@@ -1,4 +1,4 @@
-# Vancouver Functional Programmer (VanFP)
+# Vancouver Functional Programmers (VanFP)
 ## How to Organize
 This repo exists to help ensure that VanFP is run consistently each time, to help onboard new organizers, and to share information with other groups.
 
