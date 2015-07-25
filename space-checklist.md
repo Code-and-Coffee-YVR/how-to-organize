@@ -1,4 +1,4 @@
-# Mobify Event Checklist
+# Space Checklist
 ## Set Up
 - [ ] Find extra tables
   - [ ] Take note of their existing location (take a photo, ideally)
