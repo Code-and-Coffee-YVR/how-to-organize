@@ -50,6 +50,7 @@
 - [ ] [YouTube](https://www.youtube.com/channel/UCQaXHorjVswT9xm8Ho7G0RQ)
 - [ ] Twitter ([@codecoffeeyvr](https://twitter.com/codecoffeeyvr))
 - [ ] [VanDev Slack](https://yvrdev.slack.com) `#code-and-coffee`
+- [ ] GitHub as [Code-and-Coffee-YVR](https://github.com/Code-and-Coffee-YVR)
 
 ## 10 Minutes to End
 - [ ] Start wrapping up
