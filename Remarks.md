@@ -23,6 +23,7 @@
 ## After Talks
 ### House Keeping
 - [ ] We have coffee, tea, &c. Help yourself!
+- [ ] We have stickers! Come and get them!
 
 ### Mission Statement
 - [ ] Equal and welcoming
