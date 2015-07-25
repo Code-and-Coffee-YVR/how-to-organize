@@ -1,6 +1,6 @@
-# Mobify Event Checklist
+# Unbounce Event Checklist
 ## Set Up
-- [ ] Find extra tables
+- [ ] Find tables
   - [ ] Take note of their existing location (take a photo, ideally)
 - [ ] Set up chairs in rows
 - [ ] Sound check the microphone
@@ -19,10 +19,7 @@
 - [ ] Turn off projector
 - [ ] Turn off sound system
 - [ ] Close "gate"
-- [ ] Set up ping pong tables
 
 ## Leaving
 - [ ] Walk through the space, to ensure that no one is left
-- [ ] Return the key
-- [ ] Turn off lights
-- [ ] Set alarm
+- [ ] Confirm that everything is in order with Unbounce Staff
